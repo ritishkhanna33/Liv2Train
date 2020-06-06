@@ -18,9 +18,8 @@ fields.
 7. ContactEmail (text) (If present, email should be validated)
 8. ContactPhone (text)* (Phone number validation )
 - Api should accept data in json.
-● Validations for mandatory fields should be done, along with phone, email and size
-validations wherever mentioned in the aforementioned fields should be done
-● As mentioned above with the fields, createdOn field should be populated from the
+- Validations for mandatory fields should be done, along with phone, email and size validations wherever mentioned in the aforementioned fields should be done
+- As mentioned above with the fields, createdOn field should be populated from the
 server based on the server timestamp, and the user’s input if present for this field
 should be discarded.
 ● On validation failure, an appropriate error message should be shown. This should
