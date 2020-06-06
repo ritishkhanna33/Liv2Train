@@ -1,0 +1,9 @@
+com/liv2train/api/model/Address.class
+com/liv2train/api/controller/Liv2TrainController.class
+com/liv2train/api/model/TrainingCenter.class
+com/liv2train/api/exception/CustomExceptionHandler.class
+com/liv2train/api/exception/ErrorResponse.class
+com/liv2train/api/service/Liv2TrainService.class
+com/liv2train/api/Liv2TrainApplication.class
+com/liv2train/api/repository/TrainingCenterRepository.class
+com/liv2train/api/conerter/StringListConverter.class
