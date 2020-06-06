@@ -29,3 +29,6 @@ should be discarded.
 - Create a GET api to get list of all stored training centers information.
 - Api should return the result in json format.
 - In the absence of any training centers, we need to return an empty list in response.
+
+## [Postman Collection Link](https://www.getpostman.com/collections/f3761b319e87377bc208)
+
