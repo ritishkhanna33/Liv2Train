@@ -2,8 +2,8 @@
 
 Assume that you are working at a startup Liv2Train. You have to make an MVP for a registry for Govt funded Training Centers with the following minimum requirements. In the MVP, you have to create a Spring project with support for two apis, which are explained below.
 
-First API
-● Create a POST api to create and save a new training center with the following
+# # First API
+Create a POST api to create and save a new training center with the following
 fields.
 1. CenterName (text)* (less than 40 characters)
 2. CenterCode (text)* (exactly 12 character alphanumeric)
