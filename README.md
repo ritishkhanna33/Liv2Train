@@ -22,12 +22,10 @@ fields.
 - As mentioned above with the fields, createdOn field should be populated from the
 server based on the server timestamp, and the user’s input if present for this field
 should be discarded.
-● On validation failure, an appropriate error message should be shown. This should
-be handled by Spring ExceptionHandler.
-● On success, the api should return the newly saved TraningCenter information in
-json format
+- On validation failure, an appropriate error message should be shown. This should be handled by Spring ExceptionHandler.
+- On success, the api should return the newly saved TraningCenter information in json format
 
 ## Second API
-● Create a GET api to get list of all stored training centers information.
-● Api should return the result in json format.
-● In the absence of any training centers, we need to return an empty list in response.
+- Create a GET api to get list of all stored training centers information.
+- Api should return the result in json format.
+- In the absence of any training centers, we need to return an empty list in response.
